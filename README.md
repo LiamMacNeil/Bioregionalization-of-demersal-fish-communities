@@ -1,5 +1,5 @@
 # Bioregionalization-of-demersal-fish-communities
-MacNeil, L. & Scotti, M. (2025). Network-based bioregionalization of demersal fish in continental shelf seas. _Ecography_ https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecog.07683
+MacNeil, L. & Scotti, M. (2025). Network-based bioregionalization of demersal fish in continental shelf seas. _Ecography_ [https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecog.07683](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1002/ecog.07683)
 
 A repository containing select R scripts to delineate biogeographical partitions (bioregions) in demersal fish communities based on FishGlob trawl data (Maureaud et al. 2024). Bioregion outputs are stored as shapefiles including metadata for each clustering algorithm (Leiden/Infomap), spatial scale (100/200 km), and sample intensity (1st quartile / median trawls per grid cell). See the linked Zenodo repo for the associated data.
 
